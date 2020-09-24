@@ -24,6 +24,8 @@ public class Register extends AppCompatActivity implements View.OnClickListener 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.stu_register);
         initView();
+
+        //aaaaaa;
     }
 
     private void initView() {
