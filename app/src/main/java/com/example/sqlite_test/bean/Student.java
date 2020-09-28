@@ -1,5 +1,6 @@
 package com.example.sqlite_test.bean;
 
+@SuppressWarnings("all")
 public class Student {
     private  int   stu_id;   //学号
     private  String stu_name;   //姓名
